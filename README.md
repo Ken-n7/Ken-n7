@@ -3,13 +3,32 @@
   <img src="assets/wave-light.svg" width="100%" alt="" />
 </picture>
 
-### Hi, I'm Ken.
+```text
+ken@github:~$ whoami
+John Kenneth Cañete (Ken). Developer, Philippines.
 
-I'm John Kenneth Cañete, a developer from the Philippines. I build stuff: web apps, multiplayer games, desktop tools, and the occasional experiment. I like taking an idea all the way to something people can actually click, play and use.
+ken@github:~$ cat about.txt
+I build stuff: web apps, multiplayer games, desktop tools,
+and the occasional experiment. I like taking an idea all the
+way to something people can actually click, play and use.
 
-A lot of what I make is for classrooms and small businesses. There's a Baybayin word race, a horror escape room that teaches probability, an integer crossword game for Grade 7, and stock control for a produce supplier. On the side I make tools I want myself, like a live TV player and a YouTube-to-MP3 tagger.
+ken@github:~$ ls ~/builds
+lakbayin/        Baybayin word race on a generated island
+probxcape/       horror escape room that teaches probability
+integrid/        integer crossword game for Grade 7
+swarm-gallery/   party photos shared live, no internet needed
+efp-supply/      stock control for a produce supplier
+relivetv/        live TV player for Android, Linux, Windows
+sip-and-savor/   meals and cocktails in one search
+tagtune/         YouTube link in, tagged MP3 out
 
-I'm open to work. The easiest way to reach me is email at canetejohnkenneth04@gmail.com. You can see everything I've built on [my portfolio](https://ken-n7.github.io/portfolio/), or find me on [LinkedIn](https://www.linkedin.com/in/john-kenneth-ca%C3%B1ete-b48766406/).
+ken@github:~$ cat status
+open to work. email is the easiest way to reach me.
+
+ken@github:~$ _
+```
+
+**[portfolio](https://ken-n7.github.io/portfolio/)** · **[linkedin](https://www.linkedin.com/in/john-kenneth-ca%C3%B1ete-b48766406/)** · **[canetejohnkenneth04@gmail.com](mailto:canetejohnkenneth04@gmail.com)**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg" />
