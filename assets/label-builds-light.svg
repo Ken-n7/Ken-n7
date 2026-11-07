@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" width="1200" height="90" role="img" aria-label="Builds">
+<style>
+.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.n{font-size:15px;fill:#3F6B33;letter-spacing:.2em}
+.t{font-size:30px;font-weight:700;fill:#1F2421;letter-spacing:.14em}
+.s{font-size:15px;fill:#55605A;letter-spacing:.06em;opacity:0;animation:f 1s ease .9s forwards}
+.l{stroke:#3F6B33;stroke-width:2;stroke-dasharray:1300;stroke-dashoffset:1300;animation:d 1.6s cubic-bezier(.16,1,.3,1) .2s forwards}
+.p{fill:#3F6B33;animation:b 1.2s steps(1) infinite}
+@keyframes d{to{stroke-dashoffset:0}}
+@keyframes f{to{opacity:1}}
+@keyframes b{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;stroke-dashoffset:0!important}}
+</style>
+<text class="m n" x="4" y="30">01 /</text>
+<text class="m t" x="4" y="72">BUILDS</text>
+<rect class="p" x="145.2" y="50" width="14" height="24"/>
+<line class="l" x1="181.2" y1="62" x2="1196" y2="62"/>
+<text class="m s" x="1196" y="34" text-anchor="end">// things you can click, play and use</text>
+</svg>
