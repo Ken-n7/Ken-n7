@@ -17,7 +17,7 @@ from fontTools.varLib import instancer
 SESSION = [
     ("whoami", [[("ken", "")]]),
     ("cat about.txt", [
-        [("John Kenneth Cañete, developer from the Philippines.", "")],
+        [("John Kenneth Cañete, developer.", "")],
         [("", "")],
         [("I build stuff: web apps, multiplayer games, desktop tools,", "")],
         [("and the occasional experiment. I like taking an idea all the", "")],
@@ -129,7 +129,7 @@ def main():
         btn(X1 - 20, '<path d="M-4-4 4 4M4-4-4 4"/>'),                                  # close
     ])
 
-    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W + 2 * M} {H}" width="{W + 2 * M}" height="{H}" role="img" aria-label="GNOME Terminal: whoami, ken. John Kenneth Cañete, developer from the Philippines. I build stuff: web apps, multiplayer games, desktop tools, and the occasional experiment. Builds: lakbayin, probxcape, integrid, swarm-gallery, efp-supply, relivetv, sip-and-savor, tagtune. Status: open to work.">
+    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W + 2 * M} {H}" width="{W + 2 * M}" height="{H}" role="img" aria-label="GNOME Terminal: whoami, ken. John Kenneth Cañete, developer. I build stuff: web apps, multiplayer games, desktop tools, and the occasional experiment. Builds: lakbayin, probxcape, integrid, swarm-gallery, efp-supply, relivetv, sip-and-savor, tagtune. Status: open to work.">
 <style>
 @font-face{{font-family:M;src:url(data:font/woff2;base64,{regular}) format('woff2');font-weight:400}}
 @font-face{{font-family:M;src:url(data:font/woff2;base64,{bold}) format('woff2');font-weight:700}}
